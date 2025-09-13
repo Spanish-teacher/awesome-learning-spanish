@@ -22,7 +22,6 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 - [Writing & Correction](#writing--correction)
 - [Tools: Conjugation, Dictionaries, Translators](#tools-conjugation-dictionaries-translators)
 - [Courses & Curricula (Mixed)](#courses--curricula-mixed)
-- [Bolivian Spanish (Growing Section)](#bolivian-spanish-growing-section)
 - [Communities](#communities)
 - [Country Guides](#country-guides)
   - [Spain](#spain)
