@@ -81,6 +81,7 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 ## Vocabulary & SRS
 - [Anki](https://apps.ankiweb.net/) (make your own sentence decks)
 - [ClozeMaster](https://www.clozemaster.com/) (contextual cloze practice)
+- [Pokelingo](https://pokelingo.io/en/riddle/?lang=es) (daily Pokédex reading puzzle: read an entry in Spanish and guess the Pokémon; A2-B1 friendly)
 - [Readlang](https://readlang.com/) (turn web pages into graded vocab with SRS export)
 
 ## Speaking & Tutors
