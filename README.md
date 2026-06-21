@@ -82,6 +82,7 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 - [Anki](https://apps.ankiweb.net/) (make your own sentence decks)
 - [ClozeMaster](https://www.clozemaster.com/) (contextual cloze practice)
 - [Readlang](https://readlang.com/) (turn web pages into graded vocab with SRS export)
+- [**WordMeadow**](https://wordmeadow.app/learn/spanish/from/english/themes) — Visual Spanish vocabulary theme cards grouped by everyday topics.
 
 ## Speaking & Tutors
 - [iTalki](https://www.italki.com/) / [Preply](https://preply.com/) (book LATAM tutors; target Bolivian/Andean accents if desired)
