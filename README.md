@@ -93,7 +93,7 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 
 ## Tools: Conjugation, Dictionaries, Translators
 - **Dictionaries & context:** [SpanishDict](https://www.spanishdict.com/), [WordReference](https://www.wordreference.com/), [Reverso Context](https://context.reverso.net/translation/spanish-english/), [Linguee](https://www.linguee.com/spanish-english)
-- **Conjugation practice:** [Conjuguemos](https://conjuguemos.com/), [Verbix](https://www.verbix.com/)
+- **Conjugation practice:** [Conjuguemos](https://conjuguemos.com/), [Verbix](https://www.verbix.com/), [Spanish Verb Conjugation](https://www.spanishverbconjugation.com)
 
 ## Courses & Curricula (Mixed)
 - [Language Transfer — Complete Spanish](https://www.languagetransfer.org/courses/complete-spanish)
