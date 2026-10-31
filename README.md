@@ -47,6 +47,7 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 - **Speaking:** [iTalki](https://www.italki.com/) / [Preply](https://preply.com/) (book 30-min LATAM sessions)
 
 ## Placement & Diagnostics
+- [CCSE Test](https://ccse-test.com) (free practice for the CCSE Spanish citizenship exam: all 300 official 2026 questions, mock exams and explanations)
 - [Lengalia Level Test](https://www.lengalia.com/en/placement-test-spanish.html) (quick CEFR estimate)  
 - [Instituto Cervantes — Prueba de nivel](https://pruebadenivel.cervantes.es/) (A1–C2 rough placement)
 
