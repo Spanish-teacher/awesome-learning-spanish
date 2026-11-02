@@ -71,6 +71,7 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 - [Notes in Spanish](https://www.notesinspanish.com/)
 - [Radio Ambulante](https://radioambulante.org/) (Latin America stories; intermediate+)
 - [News in Slow Spanish (LatAm)](https://www.newsinslowspanish.com/) (learner-friendly news)
+- [Roam Radio – Spanish-language stations](https://roamradios.com/languages/spanish) (free live radio from Spain and Latin America in the browser, no sign-up; all levels, for daily listening input)
 
 ## Reading & News (LATAM)
 - [BBC Mundo](https://www.bbc.com/mundo) (international LATAM-focused news)
