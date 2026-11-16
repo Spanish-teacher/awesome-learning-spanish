@@ -54,6 +54,7 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 - [SpanishDict Grammar Guide](https://www.spanishdict.com/guide/spanish-grammar) (clear, example-driven)
 - [StudySpanish.com](https://studyspanish.com/grammar) (units, quizzes)
 - [Practica Español](https://practicaespanol.com/) (exercises by CEFR level)
+- [Kilo Lingo Spanish grammar](https://kilolingo.com/spanish/grammar) (plain-English explanations, A1 upwards, free to read, no sign-up)
 
 ## Pronunciation & Phonetics
 - [Forvo](https://forvo.com/languages/es/) (search any word; compare regional audio)
