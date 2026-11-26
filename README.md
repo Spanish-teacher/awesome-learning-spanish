@@ -65,6 +65,7 @@ Curated resources to learn **Spanish**—with extra love for **Latin American** 
 - **Why Not Spanish** — [YouTube](https://www.youtube.com/@WhyNotSpanish)
 - **Spanish After Hours** — [YouTube search](https://www.youtube.com/results?search_query=Spanish+After+Hours)
 - **Easy Spanish** — [Website](https://easy-spanish.org/) / [YouTube](https://www.youtube.com/@EasySpanish)
+- **[Singalama](https://singalama.com/)** — Original Latin American Spanish songs written for each level (A0–C1), with English under every line and about 25 free songs.
 
 ## Listening: Podcasts
 - [Coffee Break Spanish](https://coffeebreaklanguages.com/coffeebreakspanish/)
